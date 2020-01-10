@@ -21,6 +21,6 @@ Unfortunaly they are in slovene. A fast summary:
 12. Analysis of a spectra with FFT. Deducing initial signal from white noise for 1D and 2D signal.
 13. Method of maximal enthropy. Linear interpolation.
 
-(Code is also published, but is not clean enough.)
+(Code is also published.)
 
 Grade 10/10

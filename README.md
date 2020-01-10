@@ -1,7 +1,7 @@
 # Modelska-analiza-1
 
-This are projects for the class Modelska analiza 1 (Model analysis 1)
-Unfortunaly they are in slovene. A fast summary:
+This are projects for the class Modelska analiza 1 (Model analysis 1).
+Unfortunately they are in slovene. A fast summary:
 1. Analitical treatment of driving on road with trafic lights. With the help of variational principle.
 2. Optimization with linear programing. We had to construct A optimal diet from given list of foods.
 3. Thomson problem with numerical minimization.
